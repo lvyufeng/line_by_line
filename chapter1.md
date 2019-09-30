@@ -1,4 +1,4 @@
-#Loose, Baggy Sentences
+# Loose, Baggy Sentences
 ---
 "Omit needless words," say Strunk and White, practicing what they preach. Their terse injunction sums up advice included in every contemporary style manual. Under a variety of headings--Officialese, Prolixity, Verbiage, Periphrasis, Windyfoggery, and Jargon--the experts agree that, when it comes to exposition, less is usually more. Surely most authors have read such advice or have heard similar strictures in composition classed, but economy and precision seem hard to come by.
 
@@ -85,6 +85,75 @@ The next example comes from a letter that the head of a college English departme
     Shakespeare, Milton, Jane Austen, Tennyson, Wordsworth, 
     Pope, Melville, and Southern "agrarian" writers, T.S.Eliot 
     and Katherine Anne Porter.
+
+This excerpt has several problems, but notice particularly that the weak main verbs in the three sentences attract needless words, that the second sentence subordinates its primary information(the faculty members' range of intersets), and that the third sentence repeats information given in the second. You might revise this way:
+
+    The twelve faculty members who compose the English
+    Department make it an unusually strong one for a college of 
+    this size. Their diverse special interests and educational
+    backgrounds cover the range of English and American
+    literature, and their publications include important works on 
+    Shakespeare, Milton, Jane Austen, Tennyson, Wordsworth, 
+    Pope, Melville, the Southern "agrarian" writers, T.S.Eliot,
+    and Katherine Anne Porter.
+
+As you check your sentences for weak verbs, always consider eliminating leisurely sentence openers like ***There is*** and ***It is important to note that***. You can usually cut them easily, and most sentences work better if you go right to the point instead of sidling up to it. but apparently not all experts agree. A composition manual provides this example:
+
+    There is a hasty way of writing which is counterpart to the 
+    hasty way of reading. It is becoming more common every 
+    year and raises less and less protest.
+
+Removing the weak verbs leaves:
+
+    A hasty way of writing, counterpart to the hasty way of 
+    reading, grows more common every year and raise less and 
+    less protest.
+
+But you can condense even more:
+    
+    Hasty writing, like hasty reading, grows....
+
+A financial columnist wrote the next example:
+
+    To make the most of your investments, it is essential that
+    you understand what your goals are and what your financial 
+    temperament is.
+
+As always, you can reduce ***it is essencial that*** to ***must*** or ***have to*** and eliminate the ***what*** clauses. Revised, the sentence reads:
+
+    To make the most of your investments, you have to 
+    understand your goals and financial temperament.
+
+The last two examples, unlike the earlier ones, may not strike you as especially wordy, and perhaps the revised version do sacrifice emphasis to brevity and directness. If you want that emphasis, ifyou want to draw particular attention to a statement, you can justigy slowing the pace.
+
+No one recommends that you banish the verb ***to be*** and all passive forms from your writing. I wouldn't tamper, certainly, with "To be or not to be, that is the question" or even with "She is more to be pitied than censured." You may choose the passive, for example, because you want to put its subject first in the sentence or because you do not know, or do not want to reveal, who is performing the action. But when you use extra words, make sure that you are doing so purposefully, that you are not just surrendering to laziness and poor craftsmanship. As you edit what you've written, always ***consider*** replacing static verbs. While you should keep those that provide the tone or emphasis or variety you want, you'll find that most sentences benefit when you shift to active verbs.
+
 ### Ponderous Nouns
 
+Wordy writing not noly droops from weak verbs but sags under bulky nouns--especially long Latinate ones with endings like ***tion*** and ***ment*** and ***ence***. The two characteristics complement each other. Consider this sentence from a letter to *New York Times*:
+
+    The inference that because high school graduates are more 
+    likely to be employed than dropouts, the differences may be
+    attributed to the possession of a diploma is suspect since 
+    dropouts and graduates may differ in a variety of ways 
+    relevant to both graduation prospects and employment status.
+
+lifeless and noun-burdened, the sentence makes dull and difficult reading. You have to grope for the meaning. If you proceed mechanically, looking for verbs to replace and nouns to eliminate, you can eventually pare the sentence down:
+
+    It is not necessarily the diploma that makes high school 
+    graduates more employable than dropouts; other differences 
+    may affect both their education and their job prospects.
+
+Isn't the shorter version easier to understand? Does the original tell you anything more? Compare the number of nouns and the number of static verbs in the revision, despite that opening ***It is***. Although the sentence could begin ***The diploma does not necessarily make....,*** the more emphatic lead, which adds only two words, stresses the statement as a counterargument.
+
+
 ### Strings of Prepositional Phrases
+
+---
+## SHORTCUTS
+
+### Routine Condensing
+
+### Leaving Unsaid
+
+### 
