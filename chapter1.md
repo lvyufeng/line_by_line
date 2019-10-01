@@ -146,6 +146,13 @@ lifeless and noun-burdened, the sentence makes dull and difficult reading. You h
 
 Isn't the shorter version easier to understand? Does the original tell you anything more? Compare the number of nouns and the number of static verbs in the revision, despite that opening ***It is***. Although the sentence could begin ***The diploma does not necessarily make....,*** the more emphatic lead, which adds only two words, stresses the statement as a counterargument.
 
+The next example comes from an article on interdisciplinary college courses. After pointing out that the instructors in such courses teach material in subject areas other than their own, the author goes on to say:
+
+    One of the effects of this purposeful disengagement from
+    expertise is that students are disabused of the notion that
+    engagement in disciplinary material on a fairly elementary
+    level requires mastery of that discipline.
+
 
 ### Strings of Prepositional Phrases
 
