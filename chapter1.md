@@ -153,6 +153,42 @@ The next example comes from an article on interdisciplinary college courses. Aft
     engagement in disciplinary material on a fairly elementary
     level requires mastery of that discipline.
 
+If you ear doesn't tell you that this sentence needs work, the ratio of nouns to active verbs should (not to mention that string of prepositional phrases, the symptom of wordiness discussed in the next section). To revise, first choose an active verb for the main clause. Ask yourself what takes place in the sentence, and you'll find the event confined in a passive verb and tucked away in a subordinate clause--***students are diabused***. To make that idea active, you can either say that instructors, by teaching outside their disciplines, disabuse students of a false notion or that nonspecialist teachers enable students to discover something. Either way you automatically eliminate the limp opening--***One of the effects of.*** A sentence can make clear that something is an effect without using the label, and there's no apparent need to specify that the effect is one of several. (If that information is pertinent, you can include it elsewhere; here it gets in the way.) You might then consider these alternatives:
+
+    By venturing outside their specialties, teachers diabuse
+    students of the notion that only those who have mastered a
+    discipline can deal with its subject matter.
+
+    When teachers venture outside their specialties, students
+    discover that one need not have mastered a discipline to
+    deal with its subject matter.
+
+These versions do omit ***on a fairly elementary level,*** but why would students think that "engagement...on a fairly elementary level requires mastery"? Surely they wouldn't expect first-year French students to do without the translations in a Truffacult film. Nevertheless, the omission leaves something to be desired. The revisions almost imply the advisability of having know-nothings pontificate on a subject--an unlikely suggestion in an article favoring interdisciplinary courses. Presumably, then, the original sentence dose not mean what it says. After explaining that instructors teach material ouside their areas of expertise, the author probably intended to make this point:
+
+    By venturing into another field, teachers demonstrate that
+    nonspecialists can deal with the subject matter to some
+    extent, thus disbusing students of the notion that any
+    engagement in the dscipline requires mastery.
+
+Though not much shorter than the original, this version makes its word count.
+
+Here's one more noun-heavy excerpt, this one from a manufacturer's annual report:
+
+    The stability and quality of out financial performance will
+    be developed through the profitable execution of our
+    existing business, as well as the acquisition or development
+    of new businesses.
+
+Before you look at the revision below, try one yourself, following the steps used in ealier examples. The veriage should yield eadily, but the muddy original--perhaps an example of intentional corporate pbfuscation--makes more than one interpretation possible. You may prefer your condensation to this one:
+
+    We will improve our financial performance not only by executing out exsiting business more profitably but by acquiring or developing new businesses.
+
+Do you object to omission of ***stability and quality?*** Would restoring these terms make the revision mean more? You would have a hard time justifying ***quality***, but ***stability*** may be another matter. Although the idea of improved financial performance should encompass the idea of greater stability, readers don't necessarily think about stability when they see ***improve our financial performance,*** and they're nto likely to stop to analyze the phrase. Undoubtedly the sentence concerns a company in which instability has been a problem, and the revision carries no such implication. If the idea is important, you might choose this wording:
+
+    We will work toward a more stable and profitable financial 
+    performance not only by executing our existing business
+    more efficiently but by acquiring or developing new
+    businesses.
 
 ### Strings of Prepositional Phrases
 
