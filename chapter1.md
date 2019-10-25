@@ -192,6 +192,22 @@ Do you object to omission of ***stability and quality?*** Would restoring these 
 
 ### Strings of Prepositional Phrases
 
+As you might expect, strings of prepositional phrase oftem keep company with weak verbs and ponderous nouns. Look closely as any sentence that depends heavily on prepositions, and if you count more than three phrases in a row, consider revising. The following examples exhibit all the symptoms of wordiness we have been discussing; again, even if you can't hear the problem, you can detect it mechanically. The first comes from a doctoral dissertation:
+
+    The more reasoned analysis made by the Saint-Simonians of
+    the nature of the new power situation in France and of the 
+    reasons the present government could not satisfy the needs 
+    of the people was confirmed by these developments.
+
+This sentence features a passive main verb and seven prepositional phrases, four of them consecutive and all with nouns as objects. Changing to the active voice eliminates one phrase and gives you ***These developments confirmed....*** (It also has the advantage, incidentally, of bringing subject and verb closer together, thus making the sentence easier to read.) As you look for expendable phrases, you should see that ***if the nature if the new power situation*** means no more than ***of the new power situation*** and that ***of the reason*** can be left implicit; a ***reasoned analysis*** of the goverment's inability to satisfy would obviously give the underlying reasons. You can cut another phrase by using ***the Saint-Simonians'*** instead of ***made by the Saint-Simonians*** (When an ***of*** or ***by*** phrase simply denotes possession or authorship, you can often substitute the possessive form of the noun. But be careful: not all ***of*** phrases translate into possessive. If, for example, you change ***the assassination of the dictator*** to ***the dictator's assassination***, you risk turning the victim into a murderer.) With four phrases eliminated, the sentence reads:
+
+    These development confirmed the Saint-Simonians' more
+    reasoned analysis of the new power situation in France and 
+    of the present government's inability to satisfy the people's 
+    needs.
+
+
+
 ---
 ## SHORTCUTS
 
